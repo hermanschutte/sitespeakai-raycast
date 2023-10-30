@@ -8,7 +8,7 @@
 Train a chatbot on any website or documentation, then get answers in your command bar.
 </h3>
 
-![Query view](metadata/sitespeakai-1.png)
+![Query view](media/sitespeakai-1.png)
 
 
 # Features
@@ -17,16 +17,16 @@ Train a chatbot on any website or documentation, then get answers in your comman
 
 Train a chatbot on any website content or documentation, then query it from your command bar.
 
-![Answer view](metadata/sitespeakai-2.png)
+![Answer view](media/sitespeakai-2.png)
 
 
 # How to use
 
-This extension requires you to have a SiteSpeakAI account and API token to query your trained chatbot(s).
+This extension requires you to have a [SiteSpeakAI](https://sitespeak.ai) account and API token to query your trained chatbot(s). You can get your API token from your [account page](https://sitespeak.ai/user/api-tokens).
 
 Once you have this, you'll need to add your API token, Chatbot ID and Visitor Id in the extension settings.
 
-![Initial view](metadata/sitespeakai-3.png)
+![Initial view](media/sitespeakai-3.png)
 
 > All the preferences value will be stored locally using the [Raycast Preferences API](https://developers.raycast.com/api-reference/preferences)
 
